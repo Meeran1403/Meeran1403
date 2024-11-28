@@ -1,0 +1,34 @@
+				
+
+
+
+	
+							   ___________________________________________________________
+						          |                                                           |
+						          |          **********STUDENT RECORD MENU**********          |
+							  |___________________________________________________________|
+							  |                                                           |
+							  |                                                           |
+							  |	a/A : Add new record                                  |
+							  |							      |
+							  |	d/D : Delete a record                                 |
+							  |							      |
+							  |	s/s : Show the list                                   |
+							  |							      |
+							  |	m/M : Modify a record                                 |
+							  |							      |
+							  |	v/V : Save                                            |
+							  |							      |
+							  |	e/E : Exit					      |
+							  |							      |
+							  |	t/T : Sort the list 				      |
+							  |							      |
+							  |	l/L : Delete all the records   			      |
+							  |							      |
+							  |	r/R : Reverse the list				      |
+							  |							      |
+							  |							      |
+							  |							      |
+							  |	Enter the choice : 				      |
+							  |							      |
+							  |___________________________________________________________|
