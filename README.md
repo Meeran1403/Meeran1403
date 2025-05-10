@@ -6,7 +6,7 @@
 ---
 
 ### 👀 Interests
-- Embedded Systems & Firmware Development  
+- Embedded Systems & Firmware Development 
 - Linux Kernel Internals & Device Drivers  
 - Real-Time Operating Systems (RTOS)  
 - Model-Based Design (MBD)  
