@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Syed Meeran Maideen
 
-🔧 Aspiring Embedded Software Developer | Firmware Engineer  
-🛠️ Like to explore the depths of BIOS/UEFI, Device Drivers, RTOS, and Linux Kernel Development
-📽️ Projects I have attached My project files check it below
+- 🔧 Aspiring Embedded Software Developer | Firmware Engineer  
+- 🛠️ Like to explore the depths of BIOS/UEFI, Device Drivers, RTOS, and Linux Kernel Development
+- 📽️ Projects I have attached My project files check it below
  
 ---
 
