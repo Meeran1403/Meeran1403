@@ -40,11 +40,11 @@ I have hands-on experience in embedded software development and software testing
 ---
 
 ### OS & Concurrency Concepts
-- Interpret handling
+- Interrupt handling
 - Signal handling
 - process management
-- Thread Mangement and Mutex
-- semaphore
+- Thread mangement and Mutex
+- Semaphores
 - Inter Process Communication (IPC)
 - gRPC
 
