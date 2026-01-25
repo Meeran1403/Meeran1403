@@ -7,7 +7,7 @@ I have hands-on experience in embedded software development and software testing
 ---
 
 # 💼 Experience
-### Software Engineer – RF2Digital   |  *May 2024 – Dec 2024*
+### Software Engineer – RF2Digital  |  *May 2024 – Dec 2024*
 - Worked on Software Defined Radio (SDR)–based embedded systems
 - Developed and debugged embedded C/C++ applications
 - Handled incoming RF data streams from tuner modules
@@ -58,7 +58,6 @@ I have hands-on experience in embedded software development and software testing
 ### 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Embedded](https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge)
 ![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS-blue?style=for-the-badge)
