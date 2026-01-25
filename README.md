@@ -6,6 +6,16 @@
  
 ---
 
+# 💼 Experience
+### Software Engineer – RF2Digital   |  May 2024 – Dec 2024
+- Worked on Software Defined Radio (SDR)–based embedded systems
+- Developed and debugged embedded C/C++ applications
+- Handled incoming RF data streams from tuner modules
+- Implemented and validated tuner control commands using hardware datasheets
+- Performed low-level debugging, bug fixing, and performance analysis
+
+---
+
 ### 👀 Interests
 - Embedded Systems & Firmware Development 
 - Linux Kernel Internals & Device Drivers  
