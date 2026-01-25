@@ -2,6 +2,7 @@
 
 - 🔧 Aspiring Embedded Software Developer | Firmware Engineer  
 - 🛠️ Like to explore the depths of BIOS/UEFI, Device Drivers, RTOS, and Linux Kernel Development
+
 I have hands-on experience in embedded software development and software testing in regulated domains, including bug fixing, log analysis, and root cause investigation, with a strong interest in transitioning deeper into firmware and embedded development roles.
  
 ---
