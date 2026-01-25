@@ -1,14 +1,13 @@
 # 👋 Hello, I'm Syed Meeran Maideen
 
-- 🔧 Aspiring Embedded Software Developer | Firmware Engineer  
-- 🛠️ Like to explore the depths of BIOS/UEFI, Device Drivers, RTOS, and Linux Kernel Development
+- 🔧 Aspiring Embedded Software Developer | Firmware Engineer
 
 I have hands-on experience in embedded software development and software testing in regulated domains, including bug fixing, log analysis, and root cause investigation, with a strong interest in transitioning deeper into firmware and embedded development roles.
  
 ---
 
 # 💼 Experience
-### Software Engineer – RF2Digital   |  May 2024 – Dec 2024
+### Software Engineer – RF2Digital   |  *May 2024 – Dec 2024*
 - Worked on Software Defined Radio (SDR)–based embedded systems
 - Developed and debugged embedded C/C++ applications
 - Handled incoming RF data streams from tuner modules
@@ -18,10 +17,10 @@ I have hands-on experience in embedded software development and software testing
 ---
 
 ### 👀 Interests
-- Embedded Systems & Firmware Development 
+- Embedded Systems & Firmware Development
+- BIOS/ UEFI
 - Linux Kernel Internals & Device Drivers  
-- Real-Time Operating Systems (RTOS)  
-- Model-Based Design (MBD)  
+- Real-Time Operating Systems (RTOS)   
 - AI/ML Integration in Embedded Applications  
 
 ---
@@ -29,8 +28,7 @@ I have hands-on experience in embedded software development and software testing
 ### 🌱 Actively Working With
 - ARM Cortex-M programming & ARM LPC2129 Microcontrollers and more...
 - U-Boot, Linux Kernel Modules, and Buildroot  
-- Real-time embedded C/C++ design patterns  
-- Yocto Project and Embedded Linux workflows  
+- Real-time embedded C/C++ design patterns   
 
 ---
 
@@ -40,12 +38,15 @@ I have hands-on experience in embedded software development and software testing
 - 📘 Certified in C, C++, Linux programming/ IPC, ARM, Embedded C, TCP/UDP, serial protocol at **Vector India**  
 
 ---
-### Additional 
+
+### OS & Concurrency Concepts
 - Interpret handling
 - Signal handling
 - process management
 - Thread Mangement and Mutex
 - semaphore
+- Inter Process Communication (IPC)
+- gRPC
 
 ### 💞️ Looking to Collaborate On
 - Open-source embedded or firmware-related projects  
