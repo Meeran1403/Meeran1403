@@ -8,7 +8,7 @@ I have hands-on experience in embedded software development and software testing
 
 # 💼 Experience
 ### Software Engineer I – Honeywell | *Jan 2026 – Present*
-# Contract through Andor Tech
+Contract through Andor Tech
 - Working on DO-178B compliant aerospace systems involving embedded software analysis and verification activities.
 - Developing and debugging C/C++ based software modules for embedded system behavior analysis and robustness evaluation.
 - Performing system-level issue investigation and embedded software analysis across multiple operational scenarios.
