@@ -86,7 +86,8 @@ He / Him
 ### 😄 Projects 
 - [clickhere](https://github.com/Meeran1403?tab=repositories)
 
-###
+### 📄 Resume
+- [Download Resume](https://raw.githubusercontent.com/Meeran1403/Meeran1403/main/SyedMeeran_cv.pdf)
 <!---
 Meeran1403/Meeran1403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
